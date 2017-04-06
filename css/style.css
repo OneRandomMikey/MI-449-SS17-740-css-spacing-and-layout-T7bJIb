@@ -1,0 +1,57 @@
+h1 {
+  font-size: 50px;
+}
+
+.head_element {
+  text-align: center;
+}
+
+.contact_information_list {
+  list-style-type: none;
+  padding-left: 0;
+  justify-content: center;
+}
+
+.contact_information_point {
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+.project_sub {
+  margin-top: 20px;
+}
+
+.project_sub_list {
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.project_sub_list_point {
+  display: flex;
+}
+
+.project_content {
+  padding: 0 50px;
+  margin-top: 0;
+}
+
+.education,
+.skill,
+.project {
+  margin-bottom: 50px;
+}
+
+img {
+  display: block;
+}
+
+figcaption {
+  margin-bottom: 30px;
+}
