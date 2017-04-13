@@ -52,6 +52,6 @@ img {
   display: block;
 }
 
-figcaption {
-  margin-bottom: 30px;
+body {
+  font-family: Lucida;
 }
